@@ -1,0 +1,25 @@
+table{
+  width: 100%;
+}
+
+h2{
+  border-bottom: 1px solid black;
+}
+
+.trxnhistory{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.datatable{
+  margin-top: 10px;
+  text-align: center;
+}
+
+mat-form-field{
+  margin-right: 50px;
+}
+
+button{
+  width: 150px;
+}

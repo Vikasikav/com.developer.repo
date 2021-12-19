@@ -1,0 +1,11 @@
+ul li{
+  list-style: none;
+}
+ span{
+   padding-top: 10px;
+ }
+
+button{
+  background-color: #ffa31a;
+  color: white;
+}
